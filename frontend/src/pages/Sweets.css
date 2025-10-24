@@ -1,0 +1,21 @@
+.imgfirst{
+    width: 100%;
+    height: 406px;
+}
+.fa-solid,.fa-regular{
+    color: #619e92;
+}
+.contfit{
+    width: 18rem;
+}
+.short{
+    background-color: rgb(255, 223, 228);
+    color: rgb(34, 34, 34);
+}
+.txtbg{
+    background-color:rgb(237, 49, 90);
+}
+.pagebg{
+    background-color:rgb(247, 207, 215);
+    color: black;
+}

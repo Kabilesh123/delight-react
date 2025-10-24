@@ -1,0 +1,13 @@
+.sweets,.snacks,.masala,.pickle,.mukhwas,.rice{
+    width: 155px;
+     height: 120px;
+}
+.fullcard:hover{
+    color: blueviolet;
+}   
+.fullcard{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: 0px;
+}
